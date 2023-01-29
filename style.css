@@ -106,7 +106,7 @@ a {
 }
 
 .parallax {
-    background-image: url('assets/Foto/chiko.jpg');
+    background-image: url('chiko.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ a {
 
 .card-description {
     font-size: 18px;
-w    font-weight: bolder;
+    font-weight: bolder;
 }
 
 @media  screen and (max-width: 500px) {
